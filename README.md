@@ -37,6 +37,3 @@ The Smart Adaptive Headlight Kit operates automatically once installed. The adap
 
 Contributions to the Smart Adaptive Headlight Kit project are welcome! If you have any ideas, suggestions, or improvements, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
